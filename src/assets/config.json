@@ -1,0 +1,4 @@
+{
+    "itemsUrl": "localhost:3000/posts",
+    "textfile": "assets/textfile.txt"
+  }
